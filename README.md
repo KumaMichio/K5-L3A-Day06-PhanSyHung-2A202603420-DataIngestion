@@ -1,3 +1,44 @@
+# Bài làm · Phan Sỹ Hùng (2A202603420)
+
+Corpus: OpenStax *Introduction to Intellectual Property* (CC BY 4.0), Chương 3–5, 73 trang nội dung. Embedding: `BAAI/bge-small-en-v1.5` chạy local qua fastembed/ONNX (384 chiều), lưu và truy xuất bằng PostgreSQL 16 + pgvector 0.8.7 với cosine exact search; chi phí 0 USD. Báo cáo: [report/individual/2A202603420_PhanSyHung.md](report/individual/2A202603420_PhanSyHung.md).
+
+| Strategy | Dev Hit@1 | Dev Hit@3 | Test Hit@1 | Test Hit@3 |
+|---|---|---|---|---|
+| A · fixed 500/50 | 11/19 | 15/19 | 1/6 | 2/6 |
+| B · paragraph ≤800 | 14/19 | 19/19 | 4/6 | 5/6 |
+| **C · B + chapter filter (chọn)** | 17/19 | 19/19 | 4/6 | 5/6 |
+
+### Chạy lại (Windows PowerShell; macOS/Linux đổi lệnh kích hoạt venv)
+
+Yêu cầu: Docker Desktop và Python 3.11–3.14. Chạy từ thư mục `starter/`:
+
+```powershell
+cd starter
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+Copy-Item .env.example .env
+docker compose -p day6_student_starter up -d --wait
+python scripts/check_setup.py          # Setup OK
+python scripts/download_corpus.py      # tải PDF (24,6 MB) và kiểm tra SHA-256
+python -m src.run all                  # prepare -> index -> evaluate
+python scripts/summarize_audit.py      # tổng hợp nhãn thủ công -> results/audit_summary.json
+```
+
+Có thể chạy từng bước: `prepare` (đọc PDF, chuẩn hóa, manifest, xuất chunk), `index` (embed, upsert, kiểm tra nạp lại và mô phỏng tài liệu thay đổi), `evaluate` (kiểm tra benchmark, top-3 cho A/B/C, trace, chỉ số, file audit). Lần đầu chạy sẽ tải model (khoảng 64 MB) vào `starter/.cache/`. Nếu chạy lại `index` trên database đã có dữ liệu, mọi chunk được bỏ qua vì hash không đổi (đó chính là kiểm tra nạp lại). Muốn đo lại thời gian nạp lần đầu, xóa bảng trước: `docker compose -p day6_student_starter exec -T postgres psql -U day6 -d day6_lab -c "DROP TABLE chunks;"`.
+
+| Đường dẫn | Nội dung |
+|---|---|
+| [starter/src/](starter/src/) | Pipeline: `ingestion`, `chunking`, `embeddings`, `store`, `evaluation`, `run`, `config` |
+| [data/manifest.json](data/manifest.json), [data/pages.jsonl](data/pages.jsonl) | Manifest (nguồn, giấy phép, trang được tính, số ký tự) và text trang đã chuẩn hóa |
+| [benchmark/questions.json](benchmark/questions.json) | 25 câu (19 dev / 6 test), gold page, evidence, filter, tiêu chí chọn đã chốt trước |
+| [artifacts/experiment_log.csv](artifacts/experiment_log.csv) | Cấu hình, giả thuyết và kết quả A/B/C |
+| [results/](results/) | `ingestion_log.json`, `chunk_stats.json`, `index_report.json`, `metrics.json`, `traces/`, `chunks/`, `audit/`, `audit_summary.json` |
+
+PDF gốc không được commit (đã đưa vào `.gitignore`); `download_corpus.py` tải lại đúng phiên bản nhờ kiểm tra SHA-256.
+
+---
+
 # Day 06 · Data Ingestion Engineering
 
 **Lab cá nhân** · **4 giờ** · **Dữ liệu tự chọn**

@@ -1,0 +1,65 @@
+{
+  "coherence": {
+    "A": {
+      "n_positions": 10,
+      "sum": 7,
+      "mean_of_2": 0.7,
+      "counts": {
+        "0": 3,
+        "1": 7
+      }
+    },
+    "B (=C chunks)": {
+      "n_positions": 10,
+      "sum": 16,
+      "mean_of_2": 1.6,
+      "counts": {
+        "1": 4,
+        "2": 6
+      }
+    }
+  },
+  "metadata": {
+    "A": {
+      "records_checked": 18,
+      "complete_and_correct": 18,
+      "subsection_ok": 14,
+      "filter_compliance_test": "0/2"
+    },
+    "B": {
+      "records_checked": 18,
+      "complete_and_correct": 18,
+      "subsection_ok": 11,
+      "filter_compliance_test": "0/2"
+    },
+    "C": {
+      "records_checked": 18,
+      "complete_and_correct": 18,
+      "subsection_ok": 12,
+      "filter_compliance_test": "2/2"
+    }
+  },
+  "grounding": {
+    "A": {
+      "n_questions": 6,
+      "count_0": 0,
+      "count_1": 1,
+      "count_2": 5,
+      "mean_of_2": 1.83
+    },
+    "B": {
+      "n_questions": 6,
+      "count_0": 0,
+      "count_1": 1,
+      "count_2": 5,
+      "mean_of_2": 1.83
+    },
+    "C": {
+      "n_questions": 6,
+      "count_0": 0,
+      "count_1": 1,
+      "count_2": 5,
+      "mean_of_2": 1.83
+    }
+  }
+}

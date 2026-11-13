@@ -1,0 +1,30 @@
+{
+  "A": {
+    "chunk_seconds": 0.011,
+    "chars": {
+      "count": 436,
+      "total": 201178,
+      "min": 69,
+      "max": 500,
+      "mean": 461.4,
+      "median": 500.0,
+      "p10": 318,
+      "p90": 500
+    },
+    "chunks_missing_section": 0
+  },
+  "B": {
+    "chunk_seconds": 0.013,
+    "chars": {
+      "count": 337,
+      "total": 182624,
+      "min": 37,
+      "max": 797,
+      "mean": 541.9,
+      "median": 576,
+      "p10": 259,
+      "p90": 758
+    },
+    "chunks_missing_section": 0
+  }
+}

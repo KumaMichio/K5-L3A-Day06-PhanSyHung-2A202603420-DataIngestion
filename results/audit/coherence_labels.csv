@@ -1,0 +1,126 @@
+position_id,page,offset,position_preview,strategy,chunk_id,chunk_chars,chunk_text,score_0_2,reason,labeler
+pos01,102,43,"Learning Objectives After completing this section, you will be able to",A,openstax-intro-ip:p102:fixed:00,500,"Introduction
+
+3.1 The Basics of Copyright
+
+Learning Objectives After completing this section, you will be able to
+
+• Understand the theoretical and legal underpinnings of copyright.
+• Appreciate the important differences between copyrights and patents.
+
+A copyright is an intellectual property right granted by a government to the author of an original literary, dramatic, musical, artistic, or other eligible creative work that gives them the exclusive right to control how the work is published, re",1,"Heading, objectives and copyright definition present, but window ends mid-word ('published, re'), cutting the definition.",Claude (AI-assisted draft) - pending author review
+pos01,102,43,"Learning Objectives After completing this section, you will be able to",B (=C chunks),openstax-intro-ip:p102:para:00,628,"Introduction
+
+3.1 The Basics of Copyright
+
+Learning Objectives After completing this section, you will be able to
+
+• Understand the theoretical and legal underpinnings of copyright.
+• Appreciate the important differences between copyrights and patents.
+
+A copyright is an intellectual property right granted by a government to the author of an original literary, dramatic, musical, artistic, or other eligible creative work that gives them the exclusive right to control how the work is published, reproduced, performed, or displayed—as well as whether or not derivative works (e.g., a movie version of a novel) may be produced.",2,"Heading, objectives and the full definition paragraph; self-contained.",Claude (AI-assisted draft) - pending author review
+pos02,109,488,"As a result, even in colonial times, states that passed copyright laws did so only with explicit rules that ensured wide",A,openstax-intro-ip:p109:fixed:00,500,"England, but rather to ensure that books with demonstrably practical benefits to society would be available to readers of the new Republic.”
+
+This emphasis was certainly in tune with the realities of American book trade. Domestic publishers mainly produced newspapers, almanacs, and practical guides—reading material of useful value to a nation that needed to build an entire economy from scratch. Most important literary works, on the other hand, were imported from Britain and France.
+
+As a result,",1,"Starts mid-quote carried over from p108 and ends mid-sentence ('As a result,').",Claude (AI-assisted draft) - pending author review
+pos02,109,488,"As a result, even in colonial times, states that passed copyright laws did so only with explicit rules that ensured wide",B (=C chunks),openstax-intro-ip:p109:para:00,797,"England, but rather to ensure that books with demonstrably practical benefits to society would be available to readers of the new Republic.”
+
+This emphasis was certainly in tune with the realities of American book trade. Domestic publishers mainly produced newspapers, almanacs, and practical guides—reading material of useful value to a nation that needed to build an entire economy from scratch. Most important literary works, on the other hand, were imported from Britain and France.
+
+As a result, even in colonial times, states that passed copyright laws did so only with explicit rules that ensured widespread public access to knowledge and information.
+
+Take colonial Connecticut’s 1783 copyright law, for example. It certainly contained all the right rhetoric about authors’ natural rights:",1,Also starts mid-quote (page boundary) and ends on a colon whose quoted text is in the next chunk.,Claude (AI-assisted draft) - pending author review
+pos03,116,93,"• Discern the specific rights granted to copyright owners.
+• Understand the term of those rights as well as in some case",A,openstax-intro-ip:p116:fixed:00,500,"3.5 Rights and Term
+
+Learning Objectives After completing this section, you will be able to
+
+• Discern the specific rights granted to copyright owners.
+• Understand the term of those rights as well as in some cases their limitations.
+
+Just as common law property rights grant owners’ exclusive powers of possession, use, and distribution, so, too, does copyright law provide for six roughly analogous exclusive rights:
+
+1. The right to reproduce the copyrighted work
+2. The right to prepare derivativ",1,Lead-in to the six exclusive rights is present but the list is cut after item 2 mid-word.,Claude (AI-assisted draft) - pending author review
+pos03,116,93,"• Discern the specific rights granted to copyright owners.
+• Understand the term of those rights as well as in some case",B (=C chunks),openstax-intro-ip:p116:para:00,418,"3.5 Rights and Term
+
+Learning Objectives After completing this section, you will be able to
+
+• Discern the specific rights granted to copyright owners.
+• Understand the term of those rights as well as in some cases their limitations.
+
+Just as common law property rights grant owners’ exclusive powers of possession, use, and distribution, so, too, does copyright law provide for six roughly analogous exclusive rights:",1,Ends at 'six ... exclusive rights:'; the list itself is in the next chunk (paragraph group would exceed 800).,Claude (AI-assisted draft) - pending author review
+pos04,123,284,"Learning Objectives After completing this section, you will be able to",A,openstax-intro-ip:p123:fixed:00,500,"Finally, copyrighted works may not be photocopied and used in educational settings as a substitute for required texts, photocopies may not be mandatory, and you cannot charge for the photocopied work (although you may recoup the costs of photocopying).
+
+3.8 Changes in Copyright Law
+
+Learning Objectives After completing this section, you will be able to
+
+• See how copyright law has continually adapted to technological change.
+• Note how digital entertainment industries in particular have been aff",1,Mixes the end of 3.7 with the 3.8 heading/objectives and is cut mid-word ('aff').,Claude (AI-assisted draft) - pending author review
+pos04,123,284,"Learning Objectives After completing this section, you will be able to",B (=C chunks),openstax-intro-ip:p123:para:01,554,"3.8 Changes in Copyright Law
+
+Learning Objectives After completing this section, you will be able to
+
+• See how copyright law has continually adapted to technological change.
+• Note how digital entertainment industries in particular have been affected by changes in copyright law.
+
+Throughout the more than 226-year history of copyright in the United States, technological innovation and changes in consumer behavior have continuously forced Congress and the courts to embrace new forms of copyrighted media and new ways of distributing and consuming it.",2,"3.8 heading, objectives and the opening paragraph; complete idea.",Claude (AI-assisted draft) - pending author review
+pos05,131,658,"On December 16, 2015, in a victory for record labels and artists, the CRB ruled that online radio firms will have to pay",A,openstax-intro-ip:p131:fixed:01,500,"by 1 cent every year after that until 2020. Collectively, music streaming services have a combined listenership of 100 million people and are the fastest-growing revenue source for artists and music labels.
+
+On December 16, 2015, in a victory for record labels and artists, the CRB ruled that online radio firms will have to pay 17 cents per 100 plays of songs through 2020.
+
+TV Streaming
+
+Another new technology challenge to copyright involved television broadcasters and an upstart television servi",1,"Starts mid-sentence ('by 1 cent every year...'), contains the CRB ruling, then drifts into 'TV Streaming' and is cut.",Claude (AI-assisted draft) - pending author review
+pos05,131,658,"On December 16, 2015, in a victory for record labels and artists, the CRB ruled that online radio firms will have to pay",B (=C chunks),openstax-intro-ip:p131:para:01,166,"On December 16, 2015, in a victory for record labels and artists, the CRB ruled that online radio firms will have to pay 17 cents per 100 plays of songs through 2020.",1,"Single complete sentence, but isolated from the Pandora/SoundExchange dispute it resolves; 'CRB' unexplained.",Claude (AI-assisted draft) - pending author review
+pos06,144,1491,"One notable trademark from the time was that of Löwenbräu Brewery, which claims to have used its lion mark since its fou",A,openstax-intro-ip:p144:fixed:03,275,"ence. These statutes were meant to protect the public by preventing the sale of unidentified goods whose quality could not be ascertained.”
+
+One notable trademark from the time was that of Löwenbräu Brewery, which claims to have used its lion mark since its founding in 1383.",1,Löwenbräu sentence complete but chunk starts mid-word inside the Miller & Davis quote.,Claude (AI-assisted draft) - pending author review
+pos06,144,1491,"One notable trademark from the time was that of Löwenbräu Brewery, which claims to have used its lion mark since its fou",B (=C chunks),openstax-intro-ip:p144:para:02,600,"Trademark use in medieval times also acquired a public interest function. As Arthur R. Miller and Michael H. Davis note in Intellectual Property: Patents, Trademarks, and Copyright in a Nutshell, “Statutes dating back as early as the thirteenth century show that [trademark] was eventually recognized as having social consequence. These statutes were meant to protect the public by preventing the sale of unidentified goods whose quality could not be ascertained.”
+
+One notable trademark from the time was that of Löwenbräu Brewery, which claims to have used its lion mark since its founding in 1383.",2,Whole medieval public-interest paragraph plus the Löwenbräu example.,Claude (AI-assisted draft) - pending author review
+pos07,151,527,Designs and Trade Dress,A,openstax-intro-ip:p151:fixed:01,499,"of a duck quacking “Aflac!” for the American Family Life Assurance Company.
+
+Designs and Trade Dress
+
+A design, like a logo, can also be trademarked, provided it distinguishes the origin of the product or service from any other source or producer. In these trademarks, the logo must be unique and consist of more than simple stylization.
+
+Bacardi for using a similar stylized “O” on its label for orange-flavored vodka. The court ruled against Geogri, however, because its design consisted merely of",0,"Starts inside the sounds list, includes the broken 'Bacardi ...' fragment (extraction lost its start) and ends mid-sentence.",Claude (AI-assisted draft) - pending author review
+pos07,151,527,Designs and Trade Dress,B (=C chunks),openstax-intro-ip:p151:para:01,730,"Designs and Trade Dress
+
+A design, like a logo, can also be trademarked, provided it distinguishes the origin of the product or service from any other source or producer. In these trademarks, the logo must be unique and consist of more than simple stylization.
+
+Bacardi for using a similar stylized “O” on its label for orange-flavored vodka. The court ruled against Geogri, however, because its design consisted merely of a stylized symbol that had not acquired a distinguishing (or secondary) meaning in the minds of consumers that enabled them to identify the producer.
+
+Examples of pure trademarked designs, without any associated words, include Nike’s “Swoosh” and Apple’s famous logo of an apple with a bite taken out of it.",1,"Heading and design paragraph are complete, but the 'Bacardi ...' sentence lacks its subject (text lost in extraction).",Claude (AI-assisted draft) - pending author review
+pos08,159,897,"Trademarks can also be licensed to others. In 2012, licensed trademarks generated $5.45 billion for North American owner",A,openstax-intro-ip:p159:fixed:01,499,"assets, trademarks and other intellectual property such as patents and copyrights often have enormous value. In fact, some sources estimate that in contrast to 40 years ago, when plant, equipment, and other tangible assets comprised 80 percent of the market value of most public companies, today it is intangible assets like intellectual property, business methods, and know-how that make up roughly 80 percent of the value of public companies.
+
+Trademarks can also be licensed to others. In 2012, l",0,"The position (licensing paragraph) is cut after 'In 2012, l'; chunk is mostly the previous paragraph.",Claude (AI-assisted draft) - pending author review
+pos08,159,897,"Trademarks can also be licensed to others. In 2012, licensed trademarks generated $5.45 billion for North American owner",B (=C chunks),openstax-intro-ip:p159:para:02,366,"Trademarks can also be licensed to others. In 2012, licensed trademarks generated $5.45 billion for North American owners, reported the Licensing Industry Merchandisers’ Association. That same year, the top 150 global brand licensors earned $230 billion in sales of trademarked products, with the Walt Disney Company alone accounting for nearly $40 billion in sales.",2,Full licensing paragraph with figures; self-contained.,Claude (AI-assisted draft) - pending author review
+pos09,173,926,Disadvantages,A,openstax-intro-ip:p173:fixed:01,499,"own well into the future. For example, if the intellectual property to be protected is a method of manufacturing a product that can be determined from examining the product, then the best way to protect the new method of manufacture might be through a patent. On the other hand, if the new method of manufacturing the product cannot be determined from examination of the product, then the best way to protect the intellectual property might be to treat it as a trade secret.
+
+Disadvantages
+
+Although",0,'Disadvantages' heading appears only as the last word with its content cut ('Although').,Claude (AI-assisted draft) - pending author review
+pos09,173,926,Disadvantages,B (=C chunks),openstax-intro-ip:p173:para:02,719,"Disadvantages
+
+Although there is no definite expiration of the protection granted to trade secrets, the protection prohibits only the disclosure or use of the trade secret by one to whom the secret was disclosed in confidence. Unlike patent law, trade secret law does not offer any affirmative protection against the use of the same intellectual property that is independently derived or reverse engineered by a competitor. Consequently, if the intellectual property to be protected is a new method of manufacturing a product, and if that method of manufacture is ascertainable from an examination of the product, then the best form of protection for the intellectual property is most likely that offered by patent law.",2,Disadvantages heading with its full paragraph.,Claude (AI-assisted draft) - pending author review
+pos10,180,1063,"Learning Objectives After completing this section, you will be able to",A,openstax-intro-ip:p180:fixed:02,499,"all often help to show that the information in question qualifies as a trade secret, and deserves trade secret protection.
+
+5.5 Misappropriation of Trade Secrets
+
+Learning Objectives After completing this section, you will be able to
+
+• Describe the differences between the misappropriation of a trade secret through improper means and disclosure without consent.
+• Explain how trade secret owners use direct evidence and circumstantial evidence to prove that a misappropriation of trade secrets has",1,"Starts with the end of 5.4, then 5.5 heading/objectives, cut mid-sentence.",Claude (AI-assisted draft) - pending author review
+pos10,180,1063,"Learning Objectives After completing this section, you will be able to",B (=C chunks),openstax-intro-ip:p180:para:02,794,"5.5 Misappropriation of Trade Secrets
+
+Learning Objectives After completing this section, you will be able to
+
+• Describe the differences between the misappropriation of a trade secret through improper means and disclosure without consent.
+• Explain how trade secret owners use direct evidence and circumstantial evidence to prove that a misappropriation of trade secrets has occurred.
+
+The enforcement provisions of the UTSA allow companies and individuals to protect information that qualifies as a trade secret. The protections allowed for by the UTSA are triggered by the actual or threatened “misappropriation” of trade secrets. “Misappropriation” is defined in two ways: (1) acquisition of a trade secret through improper means, or (2) disclosure or use of a trade secret without consent.",2,"5.5 heading, objectives and the two-way definition of misappropriation.",Claude (AI-assisted draft) - pending author review

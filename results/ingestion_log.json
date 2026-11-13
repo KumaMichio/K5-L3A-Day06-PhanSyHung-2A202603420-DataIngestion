@@ -1,0 +1,1229 @@
+{
+  "generated_at": "2026-11-13T11:12:10+00:00",
+  "parse_seconds": 3.16,
+  "warnings": [],
+  "sources": [
+    {
+      "source_id": "openstax-intro-ip",
+      "physical_pages": 201,
+      "counted_pages": [
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187
+      ],
+      "excluded_short_pages": [],
+      "removed_blocks": {
+        "superscript_marker": 129,
+        "image": 34,
+        "footnote": 94,
+        "footer": 109,
+        "chapter_outline": 2,
+        "chapter_title": 1
+      }
+    }
+  ],
+  "ocr": "not used: every counted page has a text layer",
+  "pages": [
+    {
+      "page": 102,
+      "printed_page": 94,
+      "chapter": 3,
+      "chars": 1514,
+      "sections": [
+        "Introduction",
+        "3.1 The Basics of Copyright"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 1,
+        "image": 1,
+        "footnote": 2,
+        "footer": 2
+      }
+    },
+    {
+      "page": 103,
+      "printed_page": 95,
+      "chapter": 3,
+      "chars": 2420,
+      "sections": [
+        "3.1 The Basics of Copyright",
+        "3.1 The Basics of Copyright"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 0,
+        "image": 1,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 104,
+      "printed_page": 96,
+      "chapter": 3,
+      "chars": 3439,
+      "sections": [
+        "3.1 The Basics of Copyright",
+        "3.2 Early Copyright Systems"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 2,
+        "footnote": 1,
+        "footer": 2
+      }
+    },
+    {
+      "page": 105,
+      "printed_page": 97,
+      "chapter": 3,
+      "chars": 2219,
+      "sections": [
+        "3.2 Early Copyright Systems"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 1,
+        "image": 1,
+        "footnote": 2,
+        "footer": 1
+      }
+    },
+    {
+      "page": 106,
+      "printed_page": 98,
+      "chapter": 3,
+      "chars": 2540,
+      "sections": [
+        "3.2 Early Copyright Systems",
+        "3.2 Early Copyright Systems"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 2,
+        "footnote": 1,
+        "footer": 2
+      }
+    },
+    {
+      "page": 107,
+      "printed_page": 99,
+      "chapter": 3,
+      "chars": 782,
+      "sections": [
+        "3.2 Early Copyright Systems"
+      ],
+      "removed_blocks": {
+        "image": 1,
+        "superscript_marker": 0,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 108,
+      "printed_page": 100,
+      "chapter": 3,
+      "chars": 1713,
+      "sections": [
+        "3.3 Copyright in America"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 0,
+        "image": 1,
+        "footnote": 1,
+        "footer": 2
+      }
+    },
+    {
+      "page": 109,
+      "printed_page": 101,
+      "chapter": 3,
+      "chars": 2623,
+      "sections": [
+        "3.3 Copyright in America"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 1,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 110,
+      "printed_page": 102,
+      "chapter": 3,
+      "chars": 1668,
+      "sections": [
+        "3.3 Copyright in America"
+      ],
+      "removed_blocks": {
+        "image": 1,
+        "superscript_marker": 0,
+        "footnote": 1,
+        "footer": 2
+      }
+    },
+    {
+      "page": 111,
+      "printed_page": 103,
+      "chapter": 3,
+      "chars": 1739,
+      "sections": [
+        "3.3 Copyright in America",
+        "3.3 Copyright in America"
+      ],
+      "removed_blocks": {
+        "image": 1,
+        "superscript_marker": 2,
+        "footnote": 2,
+        "footer": 1
+      }
+    },
+    {
+      "page": 112,
+      "printed_page": 104,
+      "chapter": 3,
+      "chars": 1799,
+      "sections": [
+        "3.3 Copyright in America"
+      ],
+      "removed_blocks": {
+        "image": 1,
+        "superscript_marker": 2,
+        "footnote": 2,
+        "footer": 2
+      }
+    },
+    {
+      "page": 113,
+      "printed_page": 105,
+      "chapter": 3,
+      "chars": 610,
+      "sections": [
+        "3.3 Copyright in America"
+      ],
+      "removed_blocks": {
+        "image": 1,
+        "superscript_marker": 0,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 114,
+      "printed_page": 106,
+      "chapter": 3,
+      "chars": 1679,
+      "sections": [
+        "3.4 Eligible Works",
+        "3.4 Eligible Works",
+        "3.4 Eligible Works"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 1,
+        "image": 1,
+        "footnote": 2,
+        "footer": 2
+      }
+    },
+    {
+      "page": 115,
+      "printed_page": 107,
+      "chapter": 3,
+      "chars": 3483,
+      "sections": [
+        "3.4 Eligible Works",
+        "3.4 Eligible Works"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 1,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 116,
+      "printed_page": 108,
+      "chapter": 3,
+      "chars": 3258,
+      "sections": [
+        "3.5 Rights and Term",
+        "3.5 Rights and Term"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 3,
+        "footnote": 1,
+        "footer": 2
+      }
+    },
+    {
+      "page": 117,
+      "printed_page": 109,
+      "chapter": 3,
+      "chars": 4232,
+      "sections": [
+        "3.5 Rights and Term",
+        "3.5 Rights and Term"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 2,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 118,
+      "printed_page": 110,
+      "chapter": 3,
+      "chars": 2961,
+      "sections": [
+        "3.5 Rights and Term",
+        "3.5 Rights and Term",
+        "3.6 Infringement and Remedies",
+        "3.6 Infringement and Remedies"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 2,
+        "footnote": 1,
+        "footer": 2
+      }
+    },
+    {
+      "page": 119,
+      "printed_page": 111,
+      "chapter": 3,
+      "chars": 4304,
+      "sections": [
+        "3.6 Infringement and Remedies",
+        "3.6 Infringement and Remedies"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 2,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 120,
+      "printed_page": 112,
+      "chapter": 3,
+      "chars": 3747,
+      "sections": [
+        "3.6 Infringement and Remedies",
+        "3.6 Infringement and Remedies"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 4,
+        "footnote": 1,
+        "footer": 2
+      }
+    },
+    {
+      "page": 121,
+      "printed_page": 113,
+      "chapter": 3,
+      "chars": 3105,
+      "sections": [
+        "3.6 Infringement and Remedies",
+        "3.7 The Fair Use Defense",
+        "3.7 The Fair Use Defense",
+        "3.7 The Fair Use Defense"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 3,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 122,
+      "printed_page": 114,
+      "chapter": 3,
+      "chars": 3703,
+      "sections": [
+        "3.7 The Fair Use Defense",
+        "3.7 The Fair Use Defense",
+        "3.7 The Fair Use Defense"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 2,
+        "footnote": 2,
+        "footer": 2
+      }
+    },
+    {
+      "page": 123,
+      "printed_page": 115,
+      "chapter": 3,
+      "chars": 1364,
+      "sections": [
+        "3.7 The Fair Use Defense",
+        "3.8 Changes in Copyright Law",
+        "3.8 Changes in Copyright Law"
+      ],
+      "removed_blocks": {
+        "image": 1,
+        "superscript_marker": 1,
+        "footnote": 2,
+        "footer": 1
+      }
+    },
+    {
+      "page": 124,
+      "printed_page": 116,
+      "chapter": 3,
+      "chars": 1891,
+      "sections": [
+        "3.8 Changes in Copyright Law",
+        "3.8 Changes in Copyright Law"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 2,
+        "image": 1,
+        "footnote": 2,
+        "footer": 2
+      }
+    },
+    {
+      "page": 125,
+      "printed_page": 117,
+      "chapter": 3,
+      "chars": 1994,
+      "sections": [
+        "3.8 Changes in Copyright Law",
+        "3.8 Changes in Copyright Law"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 0,
+        "image": 1,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 126,
+      "printed_page": 118,
+      "chapter": 3,
+      "chars": 4300,
+      "sections": [
+        "3.8 Changes in Copyright Law",
+        "3.8 Changes in Copyright Law",
+        "3.8 Changes in Copyright Law"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 0,
+        "footer": 2
+      }
+    },
+    {
+      "page": 127,
+      "printed_page": 119,
+      "chapter": 3,
+      "chars": 4033,
+      "sections": [
+        "3.8 Changes in Copyright Law",
+        "3.8 Changes in Copyright Law"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 0,
+        "footer": 1
+      }
+    },
+    {
+      "page": 128,
+      "printed_page": 120,
+      "chapter": 3,
+      "chars": 3716,
+      "sections": [
+        "3.8 Changes in Copyright Law",
+        "3.8 Changes in Copyright Law"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 0,
+        "footer": 2
+      }
+    },
+    {
+      "page": 129,
+      "printed_page": 121,
+      "chapter": 3,
+      "chars": 1831,
+      "sections": [
+        "3.8 Changes in Copyright Law",
+        "3.8 Changes in Copyright Law"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 3,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 130,
+      "printed_page": 122,
+      "chapter": 3,
+      "chars": 1805,
+      "sections": [
+        "3.9 New Technology Challenges to Copyright",
+        "3.9 New Technology Challenges to Copyright"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 0,
+        "image": 1,
+        "footnote": 1,
+        "footer": 2
+      }
+    },
+    {
+      "page": 131,
+      "printed_page": 123,
+      "chapter": 3,
+      "chars": 1850,
+      "sections": [
+        "3.9 New Technology Challenges to Copyright",
+        "3.9 New Technology Challenges to Copyright"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 0,
+        "footer": 1
+      }
+    },
+    {
+      "page": 132,
+      "printed_page": 124,
+      "chapter": 3,
+      "chars": 1744,
+      "sections": [
+        "3.10 Alternative Forms of Copyright",
+        "3.10 Alternative Forms of Copyright"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 0,
+        "image": 1,
+        "footnote": 1,
+        "footer": 2
+      }
+    },
+    {
+      "page": 133,
+      "printed_page": 125,
+      "chapter": 3,
+      "chars": 2199,
+      "sections": [
+        "3.10 Alternative Forms of Copyright",
+        "3.10 Alternative Forms of Copyright",
+        "3.11 Copyright in a Changing World"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 1,
+        "image": 1,
+        "footnote": 2,
+        "footer": 1
+      }
+    },
+    {
+      "page": 134,
+      "printed_page": 126,
+      "chapter": 3,
+      "chars": 1054,
+      "sections": [
+        "3.11 Copyright in a Changing World"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 0,
+        "footer": 2
+      }
+    },
+    {
+      "page": 141,
+      "printed_page": 133,
+      "chapter": 4,
+      "chars": 818,
+      "sections": [
+        "Introduction",
+        "4.1 Core Concepts"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 0,
+        "footnote": 1,
+        "chapter_outline": 2,
+        "image": 1,
+        "chapter_title": 1
+      }
+    },
+    {
+      "page": 142,
+      "printed_page": 134,
+      "chapter": 4,
+      "chars": 3335,
+      "sections": [
+        "4.1 Core Concepts",
+        "4.1 Core Concepts",
+        "4.1 Core Concepts",
+        "4.1 Core Concepts"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 1,
+        "footnote": 1,
+        "footer": 2
+      }
+    },
+    {
+      "page": 143,
+      "printed_page": 135,
+      "chapter": 4,
+      "chars": 1052,
+      "sections": [
+        "4.2 Early Trademark Systems",
+        "4.2 Early Trademark Systems"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 0,
+        "image": 1,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 144,
+      "printed_page": 136,
+      "chapter": 4,
+      "chars": 1625,
+      "sections": [
+        "4.2 Early Trademark Systems"
+      ],
+      "removed_blocks": {
+        "image": 1,
+        "superscript_marker": 2,
+        "footnote": 2,
+        "footer": 2
+      }
+    },
+    {
+      "page": 145,
+      "printed_page": 137,
+      "chapter": 4,
+      "chars": 3349,
+      "sections": [
+        "4.2 Early Trademark Systems",
+        "4.3 U.S. Trademark Law",
+        "4.3 U.S. Trademark Law"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 3,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 146,
+      "printed_page": 138,
+      "chapter": 4,
+      "chars": 1670,
+      "sections": [
+        "4.3 U.S. Trademark Law",
+        "4.3 U.S. Trademark Law"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 3,
+        "footnote": 1,
+        "footer": 2
+      }
+    },
+    {
+      "page": 147,
+      "printed_page": 139,
+      "chapter": 4,
+      "chars": 1545,
+      "sections": [
+        "4.4 The Four Types of Trademarks",
+        "4.4 The Four Types of Trademarks",
+        "4.4 The Four Types of Trademarks",
+        "4.4 The Four Types of Trademarks"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 1,
+        "image": 1,
+        "footnote": 2,
+        "footer": 1
+      }
+    },
+    {
+      "page": 148,
+      "printed_page": 140,
+      "chapter": 4,
+      "chars": 2046,
+      "sections": [
+        "4.4 The Four Types of Trademarks",
+        "4.4 The Four Types of Trademarks",
+        "4.4 The Four Types of Trademarks",
+        "4.5 The Subject Matter of Trademarks"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 2,
+        "image": 1,
+        "footnote": 2,
+        "footer": 2
+      }
+    },
+    {
+      "page": 149,
+      "printed_page": 141,
+      "chapter": 4,
+      "chars": 1913,
+      "sections": [
+        "4.5 The Subject Matter of Trademarks",
+        "4.5 The Subject Matter of Trademarks"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 6,
+        "image": 1,
+        "footnote": 2,
+        "footer": 1
+      }
+    },
+    {
+      "page": 150,
+      "printed_page": 142,
+      "chapter": 4,
+      "chars": 2187,
+      "sections": [
+        "4.5 The Subject Matter of Trademarks"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 1,
+        "image": 1,
+        "footnote": 2,
+        "footer": 2
+      }
+    },
+    {
+      "page": 151,
+      "printed_page": 143,
+      "chapter": 4,
+      "chars": 2150,
+      "sections": [
+        "4.5 The Subject Matter of Trademarks",
+        "4.5 The Subject Matter of Trademarks"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 3,
+        "image": 1,
+        "footnote": 2,
+        "footer": 1
+      }
+    },
+    {
+      "page": 152,
+      "printed_page": 144,
+      "chapter": 4,
+      "chars": 3710,
+      "sections": [
+        "4.5 The Subject Matter of Trademarks",
+        "4.6 The Spectrum of Distinctiveness"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 1,
+        "footnote": 1,
+        "footer": 2
+      }
+    },
+    {
+      "page": 153,
+      "printed_page": 145,
+      "chapter": 4,
+      "chars": 3445,
+      "sections": [
+        "4.6 The Spectrum of Distinctiveness",
+        "4.6 The Spectrum of Distinctiveness",
+        "4.6 The Spectrum of Distinctiveness",
+        "4.6 The Spectrum of Distinctiveness",
+        "4.6 The Spectrum of Distinctiveness",
+        "4.6 The Spectrum of Distinctiveness"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 4,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 154,
+      "printed_page": 146,
+      "chapter": 4,
+      "chars": 1990,
+      "sections": [
+        "4.6 The Spectrum of Distinctiveness",
+        "4.7 Bars to Trademark",
+        "4.7 Bars to Trademark",
+        "4.7 Bars to Trademark"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 2,
+        "image": 2,
+        "footnote": 3,
+        "footer": 2
+      }
+    },
+    {
+      "page": 155,
+      "printed_page": 147,
+      "chapter": 4,
+      "chars": 2389,
+      "sections": [
+        "4.7 Bars to Trademark",
+        "4.7 Bars to Trademark"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 3,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 156,
+      "printed_page": 148,
+      "chapter": 4,
+      "chars": 2391,
+      "sections": [
+        "4.7 Bars to Trademark"
+      ],
+      "removed_blocks": {
+        "image": 1,
+        "superscript_marker": 2,
+        "footnote": 2,
+        "footer": 2
+      }
+    },
+    {
+      "page": 157,
+      "printed_page": 149,
+      "chapter": 4,
+      "chars": 3544,
+      "sections": [
+        "4.7 Bars to Trademark",
+        "4.8 Establishing Trademark Protection",
+        "4.8 Establishing Trademark Protection"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 1,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 158,
+      "printed_page": 150,
+      "chapter": 4,
+      "chars": 3732,
+      "sections": [
+        "4.8 Establishing Trademark Protection"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 2,
+        "footnote": 1,
+        "footer": 2
+      }
+    },
+    {
+      "page": 159,
+      "printed_page": 151,
+      "chapter": 4,
+      "chars": 1708,
+      "sections": [
+        "4.8 Establishing Trademark Protection"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 2,
+        "image": 1,
+        "footnote": 2,
+        "footer": 1
+      }
+    },
+    {
+      "page": 160,
+      "printed_page": 152,
+      "chapter": 4,
+      "chars": 3119,
+      "sections": [
+        "4.9 Trademark Infringement",
+        "4.9 Trademark Infringement"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 2,
+        "footnote": 1,
+        "footer": 2
+      }
+    },
+    {
+      "page": 161,
+      "printed_page": 153,
+      "chapter": 4,
+      "chars": 4181,
+      "sections": [
+        "4.9 Trademark Infringement"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 3,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 162,
+      "printed_page": 154,
+      "chapter": 4,
+      "chars": 3086,
+      "sections": [
+        "4.9 Trademark Infringement",
+        "4.10 Trademark Remedies"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 1,
+        "footnote": 1,
+        "footer": 2
+      }
+    },
+    {
+      "page": 163,
+      "printed_page": 155,
+      "chapter": 4,
+      "chars": 1607,
+      "sections": [
+        "4.11 Fair Use of Trademarks"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 0,
+        "image": 1,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 164,
+      "printed_page": 156,
+      "chapter": 4,
+      "chars": 707,
+      "sections": [
+        "4.11 Fair Use of Trademarks"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 0,
+        "footer": 2
+      }
+    },
+    {
+      "page": 172,
+      "printed_page": 164,
+      "chapter": 5,
+      "chars": 1816,
+      "sections": [
+        "Introduction",
+        "5.1 Trade Secret Protection",
+        "5.1 Trade Secret Protection",
+        "5.1 Trade Secret Protection"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 1,
+        "image": 1,
+        "footnote": 2,
+        "footer": 2
+      }
+    },
+    {
+      "page": 173,
+      "printed_page": 165,
+      "chapter": 5,
+      "chars": 3422,
+      "sections": [
+        "5.1 Trade Secret Protection",
+        "5.1 Trade Secret Protection"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 1,
+        "footnote": 2,
+        "footer": 1
+      }
+    },
+    {
+      "page": 174,
+      "printed_page": 166,
+      "chapter": 5,
+      "chars": 3714,
+      "sections": [
+        "5.2 The Foundations of Trade Secrets Law",
+        "5.2 The Foundations of Trade Secrets Law",
+        "5.2 The Foundations of Trade Secrets Law"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 2,
+        "footnote": 1,
+        "footer": 2
+      }
+    },
+    {
+      "page": 175,
+      "printed_page": 167,
+      "chapter": 5,
+      "chars": 3264,
+      "sections": [
+        "5.2 The Foundations of Trade Secrets Law",
+        "5.3 Elements of a Trade Secret",
+        "5.3 Elements of a Trade Secret"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 6,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 176,
+      "printed_page": 168,
+      "chapter": 5,
+      "chars": 2525,
+      "sections": [
+        "5.3 Elements of a Trade Secret"
+      ],
+      "removed_blocks": {
+        "image": 1,
+        "superscript_marker": 0,
+        "footnote": 2,
+        "footer": 2
+      }
+    },
+    {
+      "page": 177,
+      "printed_page": 169,
+      "chapter": 5,
+      "chars": 1869,
+      "sections": [
+        "5.4 The Secrecy Requirement",
+        "5.4 The Secrecy Requirement"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 1,
+        "image": 1,
+        "footnote": 2,
+        "footer": 1
+      }
+    },
+    {
+      "page": 178,
+      "printed_page": 170,
+      "chapter": 5,
+      "chars": 3861,
+      "sections": [
+        "5.4 The Secrecy Requirement",
+        "5.4 The Secrecy Requirement"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 3,
+        "footnote": 1,
+        "footer": 2
+      }
+    },
+    {
+      "page": 179,
+      "printed_page": 171,
+      "chapter": 5,
+      "chars": 3249,
+      "sections": [
+        "5.4 The Secrecy Requirement",
+        "5.4 The Secrecy Requirement"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 6,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 180,
+      "printed_page": 172,
+      "chapter": 5,
+      "chars": 1818,
+      "sections": [
+        "5.4 The Secrecy Requirement",
+        "5.5 Misappropriation of Trade Secrets"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 1,
+        "image": 1,
+        "footnote": 2,
+        "footer": 2
+      }
+    },
+    {
+      "page": 181,
+      "printed_page": 173,
+      "chapter": 5,
+      "chars": 4080,
+      "sections": [
+        "5.5 Misappropriation of Trade Secrets",
+        "5.5 Misappropriation of Trade Secrets",
+        "5.5 Misappropriation of Trade Secrets"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 3,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 182,
+      "printed_page": 174,
+      "chapter": 5,
+      "chars": 4418,
+      "sections": [
+        "5.5 Misappropriation of Trade Secrets",
+        "5.5 Misappropriation of Trade Secrets"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 2,
+        "footnote": 1,
+        "footer": 2
+      }
+    },
+    {
+      "page": 183,
+      "printed_page": 175,
+      "chapter": 5,
+      "chars": 2781,
+      "sections": [
+        "5.5 Misappropriation of Trade Secrets",
+        "5.5 Misappropriation of Trade Secrets"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 1,
+        "footnote": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": 184,
+      "printed_page": 176,
+      "chapter": 5,
+      "chars": 2024,
+      "sections": [
+        "5.6 Remedies Available for the Misappropriation of Trade Secrets",
+        "5.6 Remedies Available for the Misappropriation of Trade Secrets"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 4,
+        "image": 1,
+        "footnote": 2,
+        "footer": 2
+      }
+    },
+    {
+      "page": 185,
+      "printed_page": 177,
+      "chapter": 5,
+      "chars": 2239,
+      "sections": [
+        "5.6 Remedies Available for the Misappropriation of Trade Secrets"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 6,
+        "footnote": 2,
+        "footer": 1
+      }
+    },
+    {
+      "page": 186,
+      "printed_page": 178,
+      "chapter": 5,
+      "chars": 2853,
+      "sections": [
+        "5.6 Remedies Available for the Misappropriation of Trade Secrets"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 7,
+        "footnote": 2,
+        "footer": 2
+      }
+    },
+    {
+      "page": 187,
+      "printed_page": 179,
+      "chapter": 5,
+      "chars": 577,
+      "sections": [
+        "5.6 Remedies Available for the Misappropriation of Trade Secrets"
+      ],
+      "removed_blocks": {
+        "superscript_marker": 2,
+        "footnote": 1,
+        "footer": 1
+      }
+    }
+  ]
+}

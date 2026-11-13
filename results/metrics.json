@@ -1,0 +1,296 @@
+{
+  "run_at": "2026-11-13T11:12:18+00:00",
+  "top_k": 3,
+  "embedding_model": "BAAI/bge-small-en-v1.5",
+  "strategies": {
+    "A": {
+      "chunking": "fixed_size",
+      "size": 500,
+      "overlap": 50,
+      "index": "A",
+      "use_filter": false
+    },
+    "B": {
+      "chunking": "by_paragraph",
+      "max_size": 800,
+      "index": "B",
+      "use_filter": false
+    },
+    "C": {
+      "chunking": "by_paragraph",
+      "max_size": 800,
+      "index": "B",
+      "use_filter": true
+    }
+  },
+  "search_seconds_all_questions": {
+    "A": 1.295,
+    "B": 1.77,
+    "C": 1.764
+  },
+  "questions": {
+    "total": 25,
+    "dev": 19,
+    "test": 6
+  },
+  "summary": {
+    "A": {
+      "dev": {
+        "hit_at_1": {
+          "n": 11,
+          "N": 19,
+          "rate": 0.579
+        },
+        "evidence_hit_at_3": {
+          "n": 15,
+          "N": 19,
+          "rate": 0.789
+        },
+        "gold_page_in_top3": {
+          "n": 19,
+          "N": 19,
+          "rate": 1.0
+        },
+        "evidence_split_suspected": 4,
+        "filter_questions_hit_at_3": {
+          "n": 3,
+          "N": 4,
+          "rate": 0.75
+        },
+        "filter_compliance_top3": {
+          "n": 0,
+          "N": 4,
+          "rate": 0.0
+        }
+      },
+      "test": {
+        "hit_at_1": {
+          "n": 1,
+          "N": 6,
+          "rate": 0.167
+        },
+        "evidence_hit_at_3": {
+          "n": 2,
+          "N": 6,
+          "rate": 0.333
+        },
+        "gold_page_in_top3": {
+          "n": 6,
+          "N": 6,
+          "rate": 1.0
+        },
+        "evidence_split_suspected": 3,
+        "filter_questions_hit_at_3": {
+          "n": 1,
+          "N": 2,
+          "rate": 0.5
+        },
+        "filter_compliance_top3": {
+          "n": 0,
+          "N": 2,
+          "rate": 0.0
+        }
+      },
+      "all": {
+        "hit_at_1": {
+          "n": 12,
+          "N": 25,
+          "rate": 0.48
+        },
+        "evidence_hit_at_3": {
+          "n": 17,
+          "N": 25,
+          "rate": 0.68
+        },
+        "gold_page_in_top3": {
+          "n": 25,
+          "N": 25,
+          "rate": 1.0
+        },
+        "evidence_split_suspected": 7,
+        "filter_questions_hit_at_3": {
+          "n": 4,
+          "N": 6,
+          "rate": 0.667
+        },
+        "filter_compliance_top3": {
+          "n": 0,
+          "N": 6,
+          "rate": 0.0
+        }
+      }
+    },
+    "B": {
+      "dev": {
+        "hit_at_1": {
+          "n": 14,
+          "N": 19,
+          "rate": 0.737
+        },
+        "evidence_hit_at_3": {
+          "n": 19,
+          "N": 19,
+          "rate": 1.0
+        },
+        "gold_page_in_top3": {
+          "n": 19,
+          "N": 19,
+          "rate": 1.0
+        },
+        "evidence_split_suspected": 0,
+        "filter_questions_hit_at_3": {
+          "n": 4,
+          "N": 4,
+          "rate": 1.0
+        },
+        "filter_compliance_top3": {
+          "n": 0,
+          "N": 4,
+          "rate": 0.0
+        }
+      },
+      "test": {
+        "hit_at_1": {
+          "n": 4,
+          "N": 6,
+          "rate": 0.667
+        },
+        "evidence_hit_at_3": {
+          "n": 5,
+          "N": 6,
+          "rate": 0.833
+        },
+        "gold_page_in_top3": {
+          "n": 6,
+          "N": 6,
+          "rate": 1.0
+        },
+        "evidence_split_suspected": 0,
+        "filter_questions_hit_at_3": {
+          "n": 2,
+          "N": 2,
+          "rate": 1.0
+        },
+        "filter_compliance_top3": {
+          "n": 0,
+          "N": 2,
+          "rate": 0.0
+        }
+      },
+      "all": {
+        "hit_at_1": {
+          "n": 18,
+          "N": 25,
+          "rate": 0.72
+        },
+        "evidence_hit_at_3": {
+          "n": 24,
+          "N": 25,
+          "rate": 0.96
+        },
+        "gold_page_in_top3": {
+          "n": 25,
+          "N": 25,
+          "rate": 1.0
+        },
+        "evidence_split_suspected": 0,
+        "filter_questions_hit_at_3": {
+          "n": 6,
+          "N": 6,
+          "rate": 1.0
+        },
+        "filter_compliance_top3": {
+          "n": 0,
+          "N": 6,
+          "rate": 0.0
+        }
+      }
+    },
+    "C": {
+      "dev": {
+        "hit_at_1": {
+          "n": 17,
+          "N": 19,
+          "rate": 0.895
+        },
+        "evidence_hit_at_3": {
+          "n": 19,
+          "N": 19,
+          "rate": 1.0
+        },
+        "gold_page_in_top3": {
+          "n": 19,
+          "N": 19,
+          "rate": 1.0
+        },
+        "evidence_split_suspected": 0,
+        "filter_questions_hit_at_3": {
+          "n": 4,
+          "N": 4,
+          "rate": 1.0
+        },
+        "filter_compliance_top3": {
+          "n": 4,
+          "N": 4,
+          "rate": 1.0
+        }
+      },
+      "test": {
+        "hit_at_1": {
+          "n": 4,
+          "N": 6,
+          "rate": 0.667
+        },
+        "evidence_hit_at_3": {
+          "n": 5,
+          "N": 6,
+          "rate": 0.833
+        },
+        "gold_page_in_top3": {
+          "n": 6,
+          "N": 6,
+          "rate": 1.0
+        },
+        "evidence_split_suspected": 0,
+        "filter_questions_hit_at_3": {
+          "n": 2,
+          "N": 2,
+          "rate": 1.0
+        },
+        "filter_compliance_top3": {
+          "n": 2,
+          "N": 2,
+          "rate": 1.0
+        }
+      },
+      "all": {
+        "hit_at_1": {
+          "n": 21,
+          "N": 25,
+          "rate": 0.84
+        },
+        "evidence_hit_at_3": {
+          "n": 24,
+          "N": 25,
+          "rate": 0.96
+        },
+        "gold_page_in_top3": {
+          "n": 25,
+          "N": 25,
+          "rate": 1.0
+        },
+        "evidence_split_suspected": 0,
+        "filter_questions_hit_at_3": {
+          "n": 6,
+          "N": 6,
+          "rate": 1.0
+        },
+        "filter_compliance_top3": {
+          "n": 6,
+          "N": 6,
+          "rate": 1.0
+        }
+      }
+    }
+  }
+}

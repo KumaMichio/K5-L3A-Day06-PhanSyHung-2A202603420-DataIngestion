@@ -1,0 +1,497 @@
+{
+  "generated_at": "2026-11-13T11:12:10+00:00",
+  "counting_rule": "A page counts when it is a physical PDF page inside the declared chapter ranges, is not a chapter-opener page that only holds a figure and chapter outline, is not an Assessment Questions / glossary / answer key / index page, and has at least 200 characters after removing footers, footnotes, figure credits and outline blocks. Page IDs are 1-based physical PDF pages; printed page = PDF page - 8.",
+  "total_content_pages": 73,
+  "total_normalized_chars": 183128,
+  "sources": [
+    {
+      "source_id": "openstax-intro-ip",
+      "title": "Introduction to Intellectual Property (OpenStax)",
+      "authors": "OpenStax / Openstax Intellectual Property Team",
+      "source_path_or_url": "https://assets.openstax.org/oscms-prodcms/media/documents/introduction-intellectual-property_-_WEB.pdf",
+      "landing_page": "https://openstax.org/details/books/introduction-intellectual-property",
+      "local_path": "starter/data/raw/introduction-intellectual-property.pdf",
+      "sha256": "1498509864D37CB63A6CCC11BAB7C783F3D30B2ED37D808EF80C56FDB676378A",
+      "license_or_permission": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "accessed_at": "2026-11-13",
+      "version_or_snapshot": "OpenStax web PDF, publish_date 2021-02-22 (from OpenStax CMS API)",
+      "physical_pages": 201,
+      "chapters": [
+        {
+          "chapter": 3,
+          "chapter_title": "Copyright Basics",
+          "pages": [
+            102,
+            134
+          ]
+        },
+        {
+          "chapter": 4,
+          "chapter_title": "Trademark Basics",
+          "pages": [
+            141,
+            164
+          ]
+        },
+        {
+          "chapter": 5,
+          "chapter_title": "Trade Secret Basics",
+          "pages": [
+            172,
+            187
+          ]
+        }
+      ],
+      "excluded_short_pages": [],
+      "counted_pages": [
+        {
+          "page_id": 102,
+          "printed_page": 94,
+          "chapter": 3,
+          "chars": 1514
+        },
+        {
+          "page_id": 103,
+          "printed_page": 95,
+          "chapter": 3,
+          "chars": 2420
+        },
+        {
+          "page_id": 104,
+          "printed_page": 96,
+          "chapter": 3,
+          "chars": 3439
+        },
+        {
+          "page_id": 105,
+          "printed_page": 97,
+          "chapter": 3,
+          "chars": 2219
+        },
+        {
+          "page_id": 106,
+          "printed_page": 98,
+          "chapter": 3,
+          "chars": 2540
+        },
+        {
+          "page_id": 107,
+          "printed_page": 99,
+          "chapter": 3,
+          "chars": 782
+        },
+        {
+          "page_id": 108,
+          "printed_page": 100,
+          "chapter": 3,
+          "chars": 1713
+        },
+        {
+          "page_id": 109,
+          "printed_page": 101,
+          "chapter": 3,
+          "chars": 2623
+        },
+        {
+          "page_id": 110,
+          "printed_page": 102,
+          "chapter": 3,
+          "chars": 1668
+        },
+        {
+          "page_id": 111,
+          "printed_page": 103,
+          "chapter": 3,
+          "chars": 1739
+        },
+        {
+          "page_id": 112,
+          "printed_page": 104,
+          "chapter": 3,
+          "chars": 1799
+        },
+        {
+          "page_id": 113,
+          "printed_page": 105,
+          "chapter": 3,
+          "chars": 610
+        },
+        {
+          "page_id": 114,
+          "printed_page": 106,
+          "chapter": 3,
+          "chars": 1679
+        },
+        {
+          "page_id": 115,
+          "printed_page": 107,
+          "chapter": 3,
+          "chars": 3483
+        },
+        {
+          "page_id": 116,
+          "printed_page": 108,
+          "chapter": 3,
+          "chars": 3258
+        },
+        {
+          "page_id": 117,
+          "printed_page": 109,
+          "chapter": 3,
+          "chars": 4232
+        },
+        {
+          "page_id": 118,
+          "printed_page": 110,
+          "chapter": 3,
+          "chars": 2961
+        },
+        {
+          "page_id": 119,
+          "printed_page": 111,
+          "chapter": 3,
+          "chars": 4304
+        },
+        {
+          "page_id": 120,
+          "printed_page": 112,
+          "chapter": 3,
+          "chars": 3747
+        },
+        {
+          "page_id": 121,
+          "printed_page": 113,
+          "chapter": 3,
+          "chars": 3105
+        },
+        {
+          "page_id": 122,
+          "printed_page": 114,
+          "chapter": 3,
+          "chars": 3703
+        },
+        {
+          "page_id": 123,
+          "printed_page": 115,
+          "chapter": 3,
+          "chars": 1364
+        },
+        {
+          "page_id": 124,
+          "printed_page": 116,
+          "chapter": 3,
+          "chars": 1891
+        },
+        {
+          "page_id": 125,
+          "printed_page": 117,
+          "chapter": 3,
+          "chars": 1994
+        },
+        {
+          "page_id": 126,
+          "printed_page": 118,
+          "chapter": 3,
+          "chars": 4300
+        },
+        {
+          "page_id": 127,
+          "printed_page": 119,
+          "chapter": 3,
+          "chars": 4033
+        },
+        {
+          "page_id": 128,
+          "printed_page": 120,
+          "chapter": 3,
+          "chars": 3716
+        },
+        {
+          "page_id": 129,
+          "printed_page": 121,
+          "chapter": 3,
+          "chars": 1831
+        },
+        {
+          "page_id": 130,
+          "printed_page": 122,
+          "chapter": 3,
+          "chars": 1805
+        },
+        {
+          "page_id": 131,
+          "printed_page": 123,
+          "chapter": 3,
+          "chars": 1850
+        },
+        {
+          "page_id": 132,
+          "printed_page": 124,
+          "chapter": 3,
+          "chars": 1744
+        },
+        {
+          "page_id": 133,
+          "printed_page": 125,
+          "chapter": 3,
+          "chars": 2199
+        },
+        {
+          "page_id": 134,
+          "printed_page": 126,
+          "chapter": 3,
+          "chars": 1054
+        },
+        {
+          "page_id": 141,
+          "printed_page": 133,
+          "chapter": 4,
+          "chars": 818
+        },
+        {
+          "page_id": 142,
+          "printed_page": 134,
+          "chapter": 4,
+          "chars": 3335
+        },
+        {
+          "page_id": 143,
+          "printed_page": 135,
+          "chapter": 4,
+          "chars": 1052
+        },
+        {
+          "page_id": 144,
+          "printed_page": 136,
+          "chapter": 4,
+          "chars": 1625
+        },
+        {
+          "page_id": 145,
+          "printed_page": 137,
+          "chapter": 4,
+          "chars": 3349
+        },
+        {
+          "page_id": 146,
+          "printed_page": 138,
+          "chapter": 4,
+          "chars": 1670
+        },
+        {
+          "page_id": 147,
+          "printed_page": 139,
+          "chapter": 4,
+          "chars": 1545
+        },
+        {
+          "page_id": 148,
+          "printed_page": 140,
+          "chapter": 4,
+          "chars": 2046
+        },
+        {
+          "page_id": 149,
+          "printed_page": 141,
+          "chapter": 4,
+          "chars": 1913
+        },
+        {
+          "page_id": 150,
+          "printed_page": 142,
+          "chapter": 4,
+          "chars": 2187
+        },
+        {
+          "page_id": 151,
+          "printed_page": 143,
+          "chapter": 4,
+          "chars": 2150
+        },
+        {
+          "page_id": 152,
+          "printed_page": 144,
+          "chapter": 4,
+          "chars": 3710
+        },
+        {
+          "page_id": 153,
+          "printed_page": 145,
+          "chapter": 4,
+          "chars": 3445
+        },
+        {
+          "page_id": 154,
+          "printed_page": 146,
+          "chapter": 4,
+          "chars": 1990
+        },
+        {
+          "page_id": 155,
+          "printed_page": 147,
+          "chapter": 4,
+          "chars": 2389
+        },
+        {
+          "page_id": 156,
+          "printed_page": 148,
+          "chapter": 4,
+          "chars": 2391
+        },
+        {
+          "page_id": 157,
+          "printed_page": 149,
+          "chapter": 4,
+          "chars": 3544
+        },
+        {
+          "page_id": 158,
+          "printed_page": 150,
+          "chapter": 4,
+          "chars": 3732
+        },
+        {
+          "page_id": 159,
+          "printed_page": 151,
+          "chapter": 4,
+          "chars": 1708
+        },
+        {
+          "page_id": 160,
+          "printed_page": 152,
+          "chapter": 4,
+          "chars": 3119
+        },
+        {
+          "page_id": 161,
+          "printed_page": 153,
+          "chapter": 4,
+          "chars": 4181
+        },
+        {
+          "page_id": 162,
+          "printed_page": 154,
+          "chapter": 4,
+          "chars": 3086
+        },
+        {
+          "page_id": 163,
+          "printed_page": 155,
+          "chapter": 4,
+          "chars": 1607
+        },
+        {
+          "page_id": 164,
+          "printed_page": 156,
+          "chapter": 4,
+          "chars": 707
+        },
+        {
+          "page_id": 172,
+          "printed_page": 164,
+          "chapter": 5,
+          "chars": 1816
+        },
+        {
+          "page_id": 173,
+          "printed_page": 165,
+          "chapter": 5,
+          "chars": 3422
+        },
+        {
+          "page_id": 174,
+          "printed_page": 166,
+          "chapter": 5,
+          "chars": 3714
+        },
+        {
+          "page_id": 175,
+          "printed_page": 167,
+          "chapter": 5,
+          "chars": 3264
+        },
+        {
+          "page_id": 176,
+          "printed_page": 168,
+          "chapter": 5,
+          "chars": 2525
+        },
+        {
+          "page_id": 177,
+          "printed_page": 169,
+          "chapter": 5,
+          "chars": 1869
+        },
+        {
+          "page_id": 178,
+          "printed_page": 170,
+          "chapter": 5,
+          "chars": 3861
+        },
+        {
+          "page_id": 179,
+          "printed_page": 171,
+          "chapter": 5,
+          "chars": 3249
+        },
+        {
+          "page_id": 180,
+          "printed_page": 172,
+          "chapter": 5,
+          "chars": 1818
+        },
+        {
+          "page_id": 181,
+          "printed_page": 173,
+          "chapter": 5,
+          "chars": 4080
+        },
+        {
+          "page_id": 182,
+          "printed_page": 174,
+          "chapter": 5,
+          "chars": 4418
+        },
+        {
+          "page_id": 183,
+          "printed_page": 175,
+          "chapter": 5,
+          "chars": 2781
+        },
+        {
+          "page_id": 184,
+          "printed_page": 176,
+          "chapter": 5,
+          "chars": 2024
+        },
+        {
+          "page_id": 185,
+          "printed_page": 177,
+          "chapter": 5,
+          "chars": 2239
+        },
+        {
+          "page_id": 186,
+          "printed_page": 178,
+          "chapter": 5,
+          "chars": 2853
+        },
+        {
+          "page_id": 187,
+          "printed_page": 179,
+          "chapter": 5,
+          "chars": 577
+        }
+      ],
+      "removed_blocks_total": {
+        "superscript_marker": 129,
+        "image": 34,
+        "footnote": 94,
+        "footer": 109,
+        "chapter_outline": 2,
+        "chapter_title": 1
+      },
+      "attribution": "Content from Introduction to Intellectual Property by OpenStax, https://openstax.org/details/books/introduction-intellectual-property, licensed CC BY 4.0. Modified: text extracted, footers/footnotes removed, whitespace normalized."
+    }
+  ]
+}

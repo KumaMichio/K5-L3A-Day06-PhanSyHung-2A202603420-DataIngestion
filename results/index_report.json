@@ -1,0 +1,142 @@
+{
+  "generated_at": "2026-11-13T11:12:15+00:00",
+  "versions": {
+    "python": "3.14.3",
+    "pymupdf": "2.1",
+    "psycopg": "3.3.8",
+    "fastembed": "0.9.1",
+    "onnxruntime": "1.31.1",
+    "python-dotenv": "1.2.4"
+  },
+  "store": {
+    "postgres": "16.16 (Debian 16.16-1.pgdg12+1)",
+    "pgvector": "0.8.7",
+    "table": "chunks",
+    "metric": "cosine (<=>)",
+    "search": "exact (sequential scan, no ANN index)"
+  },
+  "embedding": {
+    "provider": "local (fastembed + ONNX Runtime, CPU)",
+    "model_name": "BAAI/bge-small-en-v1.5",
+    "dimensions": 384,
+    "query_prefix": "Represent this sentence for searching relevant passages: ",
+    "document_prefix": "",
+    "normalize": true,
+    "batch_size": 32,
+    "onnx_artifact": "Qdrant/bge-small-en-v1.5-onnx-Q",
+    "model_load_seconds": 3.64
+  },
+  "cost_usd": 0.0,
+  "indexes": {
+    "A": {
+      "chunks": 436,
+      "ingest": {
+        "inserted": 0,
+        "updated": 0,
+        "unchanged": 0,
+        "skipped_unchanged_before_embedding": 436,
+        "deleted_obsolete": 0,
+        "embedded": 0,
+        "embed_seconds": 0.0,
+        "write_seconds": 0.08
+      },
+      "reload_same_version": {
+        "inserted": 0,
+        "updated": 0,
+        "unchanged": 0,
+        "skipped_unchanged_before_embedding": 436,
+        "deleted_obsolete": 0,
+        "embedded": 0,
+        "embed_seconds": 0.0,
+        "write_seconds": 0.07
+      },
+      "db_stats": {
+        "rows": 436,
+        "distinct_chunk_ids": 436,
+        "distinct_doc_page_text": 436
+      },
+      "reload_no_duplicates": true,
+      "tokens": {
+        "count": 436,
+        "total": 41399,
+        "min": 18,
+        "max": 138,
+        "mean": 95.0,
+        "median": 100.0,
+        "p10": 66,
+        "p90": 114,
+        "over_512_tokens": 0
+      }
+    },
+    "B": {
+      "chunks": 337,
+      "ingest": {
+        "inserted": 0,
+        "updated": 0,
+        "unchanged": 0,
+        "skipped_unchanged_before_embedding": 337,
+        "deleted_obsolete": 0,
+        "embedded": 0,
+        "embed_seconds": 0.0,
+        "write_seconds": 0.23
+      },
+      "reload_same_version": {
+        "inserted": 0,
+        "updated": 0,
+        "unchanged": 0,
+        "skipped_unchanged_before_embedding": 337,
+        "deleted_obsolete": 0,
+        "embedded": 0,
+        "embed_seconds": 0.0,
+        "write_seconds": 0.05
+      },
+      "db_stats": {
+        "rows": 337,
+        "distinct_chunk_ids": 337,
+        "distinct_doc_page_text": 337
+      },
+      "reload_no_duplicates": true,
+      "tokens": {
+        "count": 337,
+        "total": 37097,
+        "min": 11,
+        "max": 196,
+        "mean": 110.1,
+        "median": 115,
+        "p10": 54,
+        "p90": 157,
+        "over_512_tokens": 0
+      }
+    }
+  },
+  "change_simulation": {
+    "page": 116,
+    "first_ingest": {
+      "inserted": 6,
+      "updated": 0,
+      "unchanged": 0,
+      "skipped_unchanged_before_embedding": 0,
+      "deleted_obsolete": 0,
+      "embedded": 6,
+      "embed_seconds": 0.25,
+      "write_seconds": 0.07
+    },
+    "after_edit": {
+      "inserted": 0,
+      "updated": 1,
+      "unchanged": 0,
+      "skipped_unchanged_before_embedding": 2,
+      "deleted_obsolete": 3,
+      "embedded": 1,
+      "embed_seconds": 0.03,
+      "write_seconds": 0.07
+    },
+    "rows_after_edit": {
+      "rows": 3,
+      "distinct_chunk_ids": 3,
+      "distinct_doc_page_text": 3
+    },
+    "expected_rows_after_edit": 3,
+    "note": "page 116 re-ingested after removing its second half and editing the last kept paragraph; scratch rows deleted afterwards"
+  }
+}
